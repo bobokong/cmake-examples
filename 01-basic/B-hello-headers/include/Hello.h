@@ -5,6 +5,8 @@ class Hello
 {
 public:
     void print();
+    
+    void printTest();
 };
 
 #endif
